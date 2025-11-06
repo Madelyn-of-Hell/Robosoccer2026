@@ -52,17 +52,7 @@
 	- Need to determine filament types
 		- Spongy, springy filament for shell and a more rigid material for the interior?
 		- Clear filament for mirror tube
-	- Requirements:
-		- Should be maximum feasible size
-		- Should have wheel positions denoted (needs wells for our motors)
-		- Should have dedicated place for light sensor PCB in base
-		- Should have dedicated position for OTOS in base
-		- Should have dedicated dribbler well
-		- Should have  dedicated camera well (needs to house the openmv camera and suspend the 100mm ball an arbitrary distance away.)
-		- Should have dedicated well for rotary encoder (doesn't need to be precise for now, just a general alotted place to put it in the structure)
-		- Should have dedicated well for batteries (doesn't need to be precise for now, just a general alotted place to put it in the structure)
-		- Should have dedicated well for speed controller (doesn't need to be precise for now, just a general alotted place to put it in the structure)
-		- Should have capacity to attach a steel plate for added weight customisation
+	- [[Building Specifications]]
 	- Steel plate for weight customisation
 ##### Points to note from other competitors
 - If robots are relying on communication, make them check if the other is still present every so often and have a plan for if it's not (e.g. switch to attack mode)
