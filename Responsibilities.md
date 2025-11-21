@@ -1,0 +1,13 @@
+Lilith
+- OpenMV code
+	- Three separate functions
+		- Cyan
+		- Yellow
+		- Ball
+	- Send List: `can_see_target:bool, angle_radians:float, distance_cm:float`
+- Lightsensor comms
+	- 2 functions
+		- Can see boundary line
+		- Can see goal line
+	- Send List: `can_see_line:bool, sensor:int`
+- Motor control
