@@ -54,6 +54,11 @@
 		- Clear filament for mirror tube
 	- [[Building Specifications]]
 	- Steel plate for weight customisation
+- Detecting ball possession 
+	- could stick a rotary sensor on the dribbler to detect when it gets pushed up
+	- for instance:https://core-electronics.com.au/grove-rotary-angle-sensor-seeed-studio.html
+	- Battery
+		- Voltage Regulator
 ##### Points to note from other competitors
 - If robots are relying on communication, make them check if the other is still present every so often and have a plan for if it's not (e.g. switch to attack mode)
 	- Maybe have a custom "stalling" mode? (get hold of the ball and just stay away from the other players)
